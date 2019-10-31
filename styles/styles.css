@@ -1,3 +1,10 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+
+}
+
 header {
 
     width: 100%;
@@ -6,6 +13,7 @@ header {
     background-color: rgb(114, 102, 153);
     color: black;
 }
+
 
 .centre {
     text-align: center;
@@ -38,4 +46,40 @@ header {
     text-align: center;
     background-color: rgb(129, 0, 128);
     color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    width: 100%;
+    
+    
+}
+
+li {
+    float: left;
+}
+a {
+    display: inline-block;
+    padding: 50px;
+    background-color: black;
+    align-content: center;
+    width: 100%;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 80px;
+    text-decoration: none;
+    border: 0;
+    margin: 0;
+}
+
+li a:hover {
+    background-color: white;
 }
