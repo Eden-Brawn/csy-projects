@@ -55,7 +55,6 @@ ul {
     overflow: hidden;
     width: 100%;
     
-    
 }
 
 li {
@@ -63,23 +62,24 @@ li {
 }
 a {
     display: inline-block;
-    padding: 50px;
+    padding: 30px;
     background-color: black;
     align-content: center;
-    width: 100%;
-
+    width: 21%;
 }
 
 li a {
-    display: block;
+    
     color: white;
     text-align: center;
-    padding: 15px 80px;
+    padding: 15px 91px;
     text-decoration: none;
     border: 0;
-    margin: 0;
+   
+    
+    
 }
 
 li a:hover {
-    background-color: white;
+    background-color: cornsilk;
 }
