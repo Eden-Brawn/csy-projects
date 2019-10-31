@@ -54,7 +54,6 @@ ul {
     margin: 0;
     overflow: hidden;
     width: 100%;
-    
 }
 
 li {
@@ -69,15 +68,11 @@ a {
 }
 
 li a {
-    
     color: white;
     text-align: center;
     padding: 15px 91px;
     text-decoration: none;
-    border: 0;
-   
-    
-    
+    border: 0; 
 }
 
 li a:hover {
